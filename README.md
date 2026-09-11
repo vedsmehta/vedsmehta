@@ -20,6 +20,4 @@ If you're working on something nearby, or you have an idea and want a second pai
 hands on it, please reach out. I genuinely like hearing what other people are building,
 and I'm usually up for collaborating.
 
-### Reach out to me!
-
-[vedsmehta.github.io](https://vedsmehta.github.io) · [vhmehta@stanford.edu](mailto:vhmehta@stanford.edu)
+**Reach out to me:** [vhmehta@stanford.edu](mailto:vhmehta@stanford.edu)
