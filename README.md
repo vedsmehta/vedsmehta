@@ -20,12 +20,6 @@ If you're working on something nearby, or you have an idea and want a second pai
 hands on it, please reach out. I genuinely like hearing what other people are building,
 and I'm usually up for collaborating.
 
-### Some older things I still like
+### Reach out to me!
 
-- [ViT-TensorFlow](https://github.com/vedsmehta/ViT-TensorFlow), Vision Transformers implemented from scratch.
-- [DeepScope](https://github.com/vedsmehta/DeepScope), colonoscopy polyp segmentation, presented at MIT URTC 2023.
-- [pinns](https://github.com/vedsmehta/pinns), physics-informed neural networks for microneedle CFD optimization.
-
-### Elsewhere
-
-[vedsmehta.github.io](https://vedsmehta.github.io) · [LinkedIn](https://linkedin.com/in/vedsmehta) · [veds.mehta@gmail.com](mailto:veds.mehta@gmail.com)
+[vedsmehta.github.io](https://vedsmehta.github.io) · [vhmehta@stanford.edu](mailto:vhmehta@stanford.edu)
