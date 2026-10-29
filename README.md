@@ -2,8 +2,7 @@
 
 I work on AI safety, mostly interpretability. Right now that means mechanistic interp
 and linear probes, and specifically the question of what a model knows about the
-situation it has been put in. I also like AI-enabled robotics, and I build things for
-healthcare on the side.
+situation it has been put in. I also like AI-enabled robotics.
 
 ### What I'm doing right now
 
@@ -12,9 +11,9 @@ healthcare on the side.
   of evaluation or just the format of the prompt? A 2x2 crossing of the two on gemma-2-9b-it.
 - **[ARENA](https://github.com/vedsmehta/ARENA)**
   Working through the Alignment Research Engineer Accelerator, notebooks and all.
-- **VIGIL**
-  Co-founding a wearable neuro-monitoring platform: hardware, firmware, and a clinician
-  dashboard. Investor-backed, but nothing public yet.
+
+Previously I co-founded [VIGIL Health](https://vigilhealth.us), a $46 vital-signs headband
+for hospital wards, and built its prototype, firmware, and dashboard. I no longer work on it.
 
 If you're working on something nearby, or you have an idea and want a second pair of
 hands on it, please reach out. I genuinely like hearing what other people are building,
